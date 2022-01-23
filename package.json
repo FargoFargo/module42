@@ -16,7 +16,7 @@
     "schema.graphql",
     "project.yaml"
   ],
-  "author": "TonyMoon",
+  "author": "Artem",
   "license": "MIT",
   "devDependencies": {
     "@polkadot/api": "^6",
